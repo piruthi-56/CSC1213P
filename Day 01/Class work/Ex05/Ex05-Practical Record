@@ -1,0 +1,14 @@
+Date: 12.03.2025
+Practical No: 5
+Problem specification: Print the string data type within short form
+Implementation: 
+          class Ex05{
+	public static void main(String args[]){
+		System.out.println("First Name:Piruthinga \nLast Name:Santhirathas \nAddress:Periyakallar,Batticaloa");
+	}
+}
+Output: 
+       First Name:Piruthinga
+       Last Name:Santhirathas
+       Address:Periyakallar,Batticaloa
+Conclusion: Learned to print the string data type within short form.
