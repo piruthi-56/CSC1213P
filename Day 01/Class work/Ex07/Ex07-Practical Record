@@ -1,0 +1,25 @@
+date: 12.03.2025
+Practical No: 7
+Problem Specification: Using the arithmetic operators(+,-,/,*,%)
+Implementation: 
+         class Ex07{
+	public static void main(String args[])
+	{
+		double a=5.0;
+		double b=2.0;
+	  
+	  System.out.println("Addition is "+(a+b));
+	  System.out.println("Substraction is "+(a-b));
+	  System.out.println("Multiplication is "+(a*b));
+	  System.out.println("Division is "+(a/b));
+	  System.out.println("Mode value is "+(a%b));
+	  
+	}
+}
+Output: 
+       Addition is 7.0
+       Substraction is 3.0
+       Multiplication is 10.0
+       Division is 2.5
+       Mode value is 1.0
+Conclusion: Learned to use the arithmetic operators. 
